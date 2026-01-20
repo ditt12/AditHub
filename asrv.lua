@@ -26,7 +26,7 @@ Instance.new("UICorner", frame).CornerRadius = UDim.new(0,12)
 
 local title = Instance.new("TextLabel", frame)
 title.Size = UDim2.fromScale(1,0.2)
-title.Text = "AUTO CHAT"
+title.Text = "AditHub"
 title.BackgroundTransparency = 1
 title.TextColor3 = Color3.new(1,1,1)
 title.Font = Enum.Font.SourceSansBold
